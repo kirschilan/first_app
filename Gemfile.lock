@@ -106,7 +106,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (= 3.2.2)
-  jquery-rails (= 2.0.2)
+  jquery-rails
   json
   pg
   rails (= 3.2.12)
