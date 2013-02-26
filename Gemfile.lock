@@ -109,7 +109,7 @@ DEPENDENCIES
   jquery-rails
   json
   pg
-  rails (= 3.2.12)
+  rails
   sass-rails (= 3.2.5)
   sqlite3 (= 1.3.5)
   uglifier (= 1.2.3)
